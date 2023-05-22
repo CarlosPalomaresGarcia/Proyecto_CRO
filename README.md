@@ -16,10 +16,10 @@ Segunda extracción de datos
 Se realizó una segunda extracción de datos utilizando la página web con los cambios implementados por el departamento de UX/UI.
 Esta extracción permitió comparar los resultados obtenidos antes y después de los cambios realizados en la página web.
 
-![Web libreria](Libreria1.png)
+![Web libreria](web1.png)
 
 
-![Web libreria](Libreria2.png)
+![Web libreria](web2.png)
 
 
 ### A/B Testing y conclusiones
@@ -30,11 +30,11 @@ Basándonos en los datos recopilados, se llegó a las siguientes conclusiones:
 
 Aunque la media de clicks en el primer test era 18. El minimo lo establecimos en 13 clicks y conseguimos reducirlo a 10 
 
-![Testing1](Testing1.jpg)
+![Testing1](grafica1.jpg)
 
 La media de tiempo en el primer test era de 1:30 y conseguimos reducirlo a 50 segundos.
 
-![Testing2](Testing2.jpg)
+![Testing2](grafica2.jpg)
 
 
 En resumen, este proyecto de A/B Testing demostró que los cambios realizados en la página web de la librería, en colaboración con el departamento de UX/UI, tuvieron un impacto positivo en la experiencia de compra. Se logró reducir significativamente el número de clicks necesarios y el tiempo de compra. Estos resultados respaldan la eficacia de las mejoras implementadas y proporcionan una base sólida para futuras optimizaciones en la página web.
