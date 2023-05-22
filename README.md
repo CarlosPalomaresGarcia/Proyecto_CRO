@@ -16,7 +16,9 @@ Segunda extracción de datos
 Se realizó una segunda extracción de datos utilizando la página web con los cambios implementados por el departamento de UX/UI.
 Esta extracción permitió comparar los resultados obtenidos antes y después de los cambios realizados en la página web.
 
-![Web_libreria](images\Libreria1.png)         ![Web_libreria](Libreria2.png)
+![Web_libreria](images\Libreria1.png)
+
+![Web_libreria](Libreria2.png)
 
 
 ### A/B Testing y conclusiones
